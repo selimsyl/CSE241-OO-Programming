@@ -4,3 +4,6 @@
 [submodule "PegSolitaireGUI"]
 	path = PegSolitaireGUI
 	url = https://github.com/selimsyl/PegSolitaireGUI.git
+[submodule "CSE241-HW2"]
+	path = CSE241-HW2
+	url = https://github.com/selimsyl/CSE241-HW2.git
