@@ -1,3 +1,6 @@
 [submodule "PegSolitaire"]
 	path = PegSolitaire
 	url = https://github.com/selimsyl/PegSolitaire.git
+[submodule "PegSolitaireGUI"]
+	path = PegSolitaireGUI
+	url = https://github.com/selimsyl/PegSolitaireGUI.git
